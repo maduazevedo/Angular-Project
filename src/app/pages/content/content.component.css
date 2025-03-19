@@ -1,0 +1,33 @@
+.content-component {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.content-component_image >img {
+  border-radius: 8px;
+  width: 100%; 
+  height: 800px;
+  object-fit: cover; 
+}
+
+.content-component_title > h1 {
+  font-size: 40px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  font-weight: bold;
+}
+
+.content-component_p {
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 50px;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+.content-component_title > hr {
+  width: 96%;
+  margin: auto;
+}

@@ -1,12 +1,12 @@
 
 <div class="big-card">
   <div class="big-card_image">
-    <img src="https://images.ctfassets.net/s5uo95nf6njh/6pMt9UpisrP57qPyxc0weO/33d59dd9fb750706a2732d567d91bf4a/security02_2000x1200__1_.jpg?w=1200&fm=jpg" alt="big card image" height = "560px">
+    <img src= {{urlNews}} alt="big card image" height = "560px">
   </div>
   <div class="big-card_span">
-    <span>Guide // Security</span>
+    <span>{{descriptionNews}}</span>
   </div>
     <div class="big-card_title">
-      <h1><a href="#">How to optimize <br> your code reviews</a></h1>
+      <h1><a [routerLink]="['content', id]"> {{titleNews}} </a></h1>
     </div>
   </div>
