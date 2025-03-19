@@ -1,0 +1,37 @@
+.big-card{
+  width: 500px;
+  border-radius: 8px;
+  height:660px;
+  margin-left: 50px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  flex-direction: flex-start;
+
+}
+
+.big-card_span{
+  margin-top: 20px;
+  margin-left: 2px;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.big-card_title > h1{
+  text-decoration: none;
+  margin-top: 20px;
+  margin-left: 4px;
+  font-weight: bold;
+}
+
+.big-card_title >h1 >a{
+  text-decoration: none;
+  color: black;
+}
+
+.big-card_image >img{
+  border-radius: 6px;;
+  width: 100%;
+}
+

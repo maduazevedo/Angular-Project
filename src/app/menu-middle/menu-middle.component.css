@@ -1,0 +1,28 @@
+.menu-middle{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 17%;
+  margin-right: 17%;
+  height: 50px;
+}
+
+.menu-middle > ul{
+  margin-left: 2px;
+  display: flex;
+}
+.menu-middle > ul > li{
+  list-style: none;
+  font-weight: bold;
+  margin-right: 20px;
+}
+.menu-middle > ul > li a{
+  text-decoration: none;
+}
+
+hr{
+  width: 66%;
+  margin: auto;
+  border: 0.5px solid rgb(56, 55, 55);
+  border-radius: 2px;
+}

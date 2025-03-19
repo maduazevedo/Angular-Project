@@ -1,0 +1,16 @@
+
+.big-title > h1{
+  font-size: 15em;
+  font-weight: bold;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.big-title > hr{
+  width: 66%;
+  margin: auto;
+  border: 2.5px solid black;
+  border-radius: 2px;
+}
+
