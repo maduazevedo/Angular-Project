@@ -44,7 +44,7 @@
   margin-left: 5px;
 }
 
-.menu-top > ul > li > img{
+.menu-top > ul > li >a > img{
   width: 30px;
   height: 30px;
 }
