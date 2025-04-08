@@ -19,4 +19,6 @@ A ideia é fornecer uma interface moderna e interativa para que os desenvolvedor
 - **Angular**: Framework para construção de aplicações SPA (Single Page Application).
 - **TypeScript**: Linguagem utilizada para garantir tipagem forte e mais segurança no código.
 
+##
+<img src= "https://github.com/user-attachments/assets/7b23b3e1-8bc9-4768-9b52-b9bce45436fb"> 
 
